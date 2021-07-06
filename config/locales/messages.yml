@@ -1,0 +1,4 @@
+en:
+  messages:
+    sell_good: "Sell %{product_name} for %{product_price} coins in %{town}. %{budget} coins left."
+    buy_good: "Buy %{product_name} for %{product_price} coins in %{town}. %{budget} coins left."

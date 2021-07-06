@@ -1,0 +1,3 @@
+en: 
+  product:
+    full_name: "%{name} - %{price} coins"

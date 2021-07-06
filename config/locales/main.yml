@@ -1,0 +1,5 @@
+en:
+  main:
+    towns: 'Towns:'
+    initial: "Initial coins: %{budget}"
+    final: "Final coins: %{budget}"
